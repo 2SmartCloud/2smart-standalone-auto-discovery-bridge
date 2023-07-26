@@ -1,0 +1,12 @@
+# Project dependencies
+node_modules/
+
+# JetBrains IDE's configs
+.idea/
+
+.DS_Store
+
+npm-debug.log
+
+# VS Code configs
+.vs_code/
